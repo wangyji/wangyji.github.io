@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "YWphoto.png"
   name             : "Yongji Wang"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # "he/his"  
+  bio              : "Half mathematian and scientist, interested in developing advanced methods for solving complex physical processes in nature and environment"
   location         : "251 Mercer Street, New York, NY 10012"
   employer         : "New York University"
   uri              : # URL
