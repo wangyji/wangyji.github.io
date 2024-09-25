@@ -3,6 +3,7 @@ title: "Spectrum-informed multistage neural nework: Multiscale function approxim
 collection: publications
 category: conferences
 permalink: /publication/2024-07-17-Specturm-informed multistage
+excerpt: 'Follow-up study for multi-stage neural networks.'
 date: 2024-7-17
 venue: 'ICML2024-AI4Science Workshop'
 paperurl: 'http://wangyji.github.io/files/Spectrum_Multistage.pdf'
