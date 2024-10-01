@@ -2,7 +2,7 @@
 title: "Multi-stage Neural Networks: Function Approximator of Machine Precision"
 collection: publications
 category: papers
-permalink: /publication/201-10-01-paper-title-number-3
+permalink: /publication/2024-05-04-multistage-neural-network
 excerpt: 'Introducing multi-stage training scheme for regression problems and PINNs to reach machine precision.'
 date: 2024-05-01
 venue: 'Journal of Computational Physics'
