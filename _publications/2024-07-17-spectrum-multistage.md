@@ -6,7 +6,7 @@ permalink: /publication/2024-07-17-Specturm-informed multistage
 excerpt: 'Applying spectrum-informed initialization to accelerate multistage neural-network training.'
 date: 2024-7-17
 venue: 'ICML2024-AI4Science Workshop'
-paperurl: 'http://wangyji.github.io/files/Spectrum_Multistage.pdf'
+paperurl: 'https://openreview.net/forum?id=59hdCpJyHx'
 citation: 'J. Ng, <b>Y. Wang</b>, C.-Y. Lai. (2024). &quot;Spectrum-informed multistage neural nework: Multiscale function approximator of machine precision.&quot; <i>ICML2024-AI4Science Workshop</i>.'
 ---
 
