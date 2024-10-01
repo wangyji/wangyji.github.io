@@ -6,7 +6,7 @@ type: "Talk"
 permalink: /talks/2024-10-08-Blowups-PINNs
 excerpt: 'Talking about recently-developed advanced PINNs techniques that enables the discovery of self-similar blow-up solutions to various fluid equations with high precision.'
 venue: "Department of Mathematics, University of Minnesota Twin Cities"
-date: 2012-03-01
+date: 2012-10-08
 location: "Minneapolis, MN"
 ---
 
