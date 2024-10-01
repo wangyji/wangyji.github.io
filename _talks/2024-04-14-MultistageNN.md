@@ -1,13 +1,13 @@
 ---
-title: "Recent Progress in Physics-Informed Neural Networks for Self-Similar Blow-Up Solutions"
+title: "Multi-stage neural networks achieving machine precision"
 collection: talks
 category: invite
 type: "Talk"
-permalink: /talks/2024-10-08-Blowups-PINNs
-excerpt: 'Talking about recently-developed advanced PINNs techniques that enables the discovery of self-similar blow-up solutions to various fluid equations with high precision.'
-venue: "Department of Mathematics, University of Minnesota Twin Cities"
-date: 2012-03-01
+permalink: /talks/2024-04-14-MultistageNN
+excerpt: 'Present the recent publication of Multistage Neural Networks and its application on discovering self-similar blow-up solutions to various fluid equations.'
+venue: "FRG conference of PDEs of incompressible fluid flows, computer assisted proofs and neural networks"
+date: 2024-04-14
 location: "Minneapolis, MN"
 ---
 
-One of the most challenging open questions in mathematical fluid dynamics is whether an inviscid, incompressible fluid, described by the 3-dimensional Euler equations, with initially smooth velocity and finite energy, can develop singularities in finite time. This long-standing problem is closely related to one of the seven Millennium Prize Problems, which considers the Navier-Stokes equations, the viscous counterpart to the Euler equations. In this talk, I will describe several advanced techniques associated with physics-informed neural networks (PINNs) for finding smooth self-similar blow-up solutions in various fluid equations, ranging from the 1-D CCF equation to the 3-D axisymmetric Euler equations in the presence of a cylindrical boundary. By integrating these techniques, we are able to find blow-up solutions with machine precision. This work sheds new light on a century-old mystery of fundamental importance in the field of mathematical fluid dynamics.
+Deep learning techniques are increasingly applied to scientific problems, where the precision of networks is crucial. Despite being deemed as universal function approximators, neural networks, in practice, struggle to reduce the prediction errors below even with large network size and extended training iterations. To address this issue, we developed the multi-stage neural networks that divides the training process into different stages, with each stage using a new network that is optimized to fit the residue from the previous stage. We demonstrate that the prediction error from the multi-stage training for both regression problems and physics-informed neural networks can nearly reach the machine-precision of double-floating point within a finite number of iterations. This advancement mitigate the longstanding accuracy limitation of neural network training, and enhance PINNs as robust tools for solving challenging differential equations.
