@@ -4,7 +4,7 @@ collection: talks
 category: invite
 type: "Talk"
 permalink: /talks/2024-04-14-MultistageNN
-excerpt: 'Present the recent publication of Multistage Neural Networks and its application on discovering self-similar blow-up solutions to various fluid equations.'
+excerpt: 'Presenting the publication of Multistage Neural Networks and its application on discovering self-similar blow-up solutions to various fluid equations.'
 venue: "FRG conference of PDEs of incompressible fluid flows, computer assisted proofs and neural networks"
 date: 2024-04-14
 location: "Minneapolis, MN"
