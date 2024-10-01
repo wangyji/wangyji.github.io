@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-stage Neural Networks: Function Approximator of Machine Precision"
 collection: publications
 category: papers
 permalink: /publication/201-10-01-paper-title-number-3
