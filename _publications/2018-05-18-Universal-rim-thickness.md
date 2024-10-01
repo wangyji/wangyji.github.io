@@ -1,10 +1,10 @@
 ---
-title: "Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler equations using neural networks"
+title: "Universal Rim Thickness in Unsteady Sheet Fragmentation"
 collection: publications
 category: papers
-permalink: /publication/2023-06-16-Self-similar-blowups
-excerpt: 'Discovering the self-similar blow-up solutons for 3-D axisymmetric Euler equations using physics-informed neural networks'
-date: 2023-06-16
+permalink: /publication/2018-05-18-Universal-rim-thickness
+excerpt: 'Discovering the universal physical law that governs the rim dynamics for various fluid fragmentations '
+date: 2018-05-18
 venue: 'Physical Review Letters'
 paperurl: 'https://doi.org/10.1103/PhysRevLett.120.204503'
 citation: '<b>Y. Wang</b>, R. Dandekar, N. Bustos, S. Poulain, and L. Bourouiba. &quot;Universal rim thickness in unsteady sheet fragmentation.&quot; <i>Physical Review Letters</i>, <b>120</b>, 204503.'
