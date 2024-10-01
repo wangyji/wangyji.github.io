@@ -3,7 +3,7 @@ title: "Non-isolated drop impact on surfaces"
 collection: publications
 category: papers
 permalink: /publication/2018-01-01-Nonisolated-drop-impact
-excerpt: 'Discovering the four regimes of interaction upon drop impact on solid surface with a neighbouring sessile droplets and quantify the impact condition for each regimes.
+excerpt: 'Discovering the four regimes of interaction upon drop impact on solid surface with a neighbouring sessile droplets and quantify the impact condition for each regimes.'
 date: 2018-01-01
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://doi.org/10.1017/jfm.2017.755'
