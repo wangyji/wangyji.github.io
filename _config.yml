@@ -86,6 +86,14 @@ publication_category:
   drafts:
     title: 'In Preparation'
 
+# Talk Category - The following the list of publication categories and their headings
+talk_category:
+  invite:
+    title: 'Invited Talks'
+  seminar:
+    title: 'Seminar Talks'
+  conference:
+    title: 'Conference and Workshop Talks'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
