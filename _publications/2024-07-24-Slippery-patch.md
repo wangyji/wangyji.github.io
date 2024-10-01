@@ -6,6 +6,7 @@ permalink: /publication/2024-07-24-slippery-patch
 excerpt: 'Developing theoretical models to quantify the stress perturbation for a viscous current moving over a no-slip boundary with a finite-size slippery patch'
 date: 2024-07-24
 venue: 'Journal of Fluid Mechanics'
+paperurl: 'https://arxiv.org/abs/2407.20565'
 citation: 'J. Rhines, C.-Y. Lai, D. J. Prior, and <b>Y. Wang</b>. &quot;Theoretical analysis of stress perturbations from a partially-lubricated viscous gravity current.&quot; <i>arXiv preprint arXiv:2407.20565</i>.'
 ---
 
