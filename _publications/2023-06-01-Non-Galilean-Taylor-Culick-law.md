@@ -6,7 +6,7 @@ permalink: /publication/2023-06-01-Non-Galilean-Taylor-Culick-law
 excerpt: 'Discovering the Non-Galilean Taylor-Culick law that governs the sheet expansion during fluid fragmentation upon drop impact'
 date: 2023-06-16
 venue: 'Journal of Fluid Mechanics'
-paperurl: 'https://doi.org/10.1103/PhysRevLett.130.244002'
+paperurl: 'https://doi.org/10.1017/jfm.2020.519'
 citation: '<b>Y. Wang</b>, L. Bourouiba. &quot;Non-Galilean Taylor–Culick law governs sheet dynamics in unsteady fragmentation.&quot; <i>Journal of Fluid Mechanics</i>, <b>969</b>, A19.'
 ---
 
