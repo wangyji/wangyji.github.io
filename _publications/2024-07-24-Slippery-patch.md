@@ -3,7 +3,7 @@ title: "Theoretical analysis of stress perturbations from a partially-lubricated
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-24-slippery-patch
-excerpt: 'Developing theoretical models to quantify the stress perturbation for a viscous current moving over a no-slip boundary with a finite-size slippery patch'
+excerpt: 'Developing theoretical models to quantify the stress perturbation for a viscous gravity current moving over a no-slip boundary with a finite-size slippery patch'
 date: 2024-07-24
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://arxiv.org/abs/2407.20565'
