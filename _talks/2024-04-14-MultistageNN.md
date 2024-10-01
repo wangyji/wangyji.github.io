@@ -1,5 +1,5 @@
 ---
-title: "Multi-stage neural networks achieving machine precision"
+title: "Multi-stage neural networks for discovering self-similar blow-up solutions"
 collection: talks
 category: invite
 type: "Talk"
