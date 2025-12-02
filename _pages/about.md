@@ -14,7 +14,7 @@ fluid phenomena governing these fields, with applications ranging from **environ
 **singularity formation** in diverse fluid systems. My vision is to leverage this interdisciplinary expertise to provide new
 predictive frameworks for critical natural and engineered systems. More research details are given on my [research page](https://wangyji.github.io/terms/).
 
-I completed my Ph.D. in the Department of Civil and Environmental Engineering at the Massachusetts Institute of Technology (MIT). Prior to MIT, I obtained a master’s degree with Distinction from the University of Cambridge, majoring in applied mathematics, and a dual bachelor’s degree in Mechanical Engineering from the University of Hong Kong and Shanghai Jiaotong University.
+I completed my Ph.D. in the Department of Civil and Environmental Engineering at the **Massachusetts Institute of Technology (MIT)**. Prior to MIT, I obtained a master’s degree with Distinction from the University of Cambridge, majoring in applied mathematics, and a dual bachelor’s degree in Mechanical Engineering from the University of Hong Kong and Shanghai Jiaotong University.
 
 
 
