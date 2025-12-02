@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **research scientist** at **Google DeepMind**, focusing on using state-of-the-art AI technique to solve hard scientific problems. I am an instructor in the Courant Institute of Mathematical Sciences at New York University, where I combined fluid mechanics and machine learning to resolve fundamental challenges in geophysics and mathematical physics, following my previous postdoctoral work at Princeton University. 
+I am currently a **research scientist** at **Google DeepMind**, focusing on using state-of-the-art AI technique to solve hard scientific problems. Before joining DeepMind, I am an instructor in the Courant Institute of Mathematical Sciences at New York University, where I combined fluid mechanics and machine learning to resolve fundamental challenges in geophysics and mathematical physics, following my previous postdoctoral work at Princeton University. 
 
 My research interest lie in the interface of **fluid mechanics**, **applied mathematics** and **machine learning** to address fundamental challenges in applied science and mathematical physics. I specialize in developing new methods and theories to elucidate the complex
 fluid phenomena governing these fields, with applications ranging from **environmental transport**, **geophysical flows** to
