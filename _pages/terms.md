@@ -13,10 +13,11 @@ To overcome these challenges, I integrated advanced computer vision techniques t
 
 Through this work, I discovered two universal physical laws governing fragmentation and established a unified theoretical framework that links these sub-dynamics to predict final droplet distributions. These models, which show excellent agreement with experiments, pave the way for a fundamental understanding of fragmentation in both environmental health and industrial applications.
 
-**Achievement**: 6 first-author papers in *Journal of fluid mechanics* and 1 first-author paper in *Physical Review Letters*
+**Achievement**: 6 first-author papers in *Journal of Fluid Mechanics* and 1 first-author paper in *Physical Review Letters*
 
 Relevant publications: [[1](https://wangyji.github.io/publication/2017-03-01-Sheet-thickness-and-velocity-profiles), 2, 3, 4, 5, 6, 7]
 
+<br>
 
 
 ## Uncovering the hidden mechanics of Antarctic ice shelves
@@ -27,8 +28,11 @@ To solve this, I developed a novel approach combining vast remote-sensing datase
 
 My research revealed that ice rheology is far more complex than previously thought. I found a distinct contrast between compression zones near the grounding line, which follow standard power laws, and extension zones, where the ice exhibits strong anisotropic properties. By accounting for this anisotropy, I constructed high-precision viscosity maps that capture suture zones—critical structures that inhibit rift propagation but are often missing from current models. These findings, published in Science, provide essential inputs for the next generation of ice-sheet models used to predict future sea-level rise.
 
+**Achievement**: First and corresponding author papers in *Science* and *Journal of Computational Physicss*
+
 Relevant publications: [10, 11, 12]
 
+<br>
 
 ## Discovery of unstable singularities with machine precision
 
