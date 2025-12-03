@@ -28,7 +28,7 @@ To solve this, I developed a novel approach combining vast remote-sensing datase
 
 My research revealed that ice rheology is far more complex than previously thought. I found a distinct contrast between compression zones near the grounding line, which follow standard power laws, and extension zones, where the ice exhibits strong anisotropic properties. By accounting for this anisotropy, I constructed high-precision viscosity maps that capture suture zones—critical structures that inhibit rift propagation but are often missing from current models. These findings, published in Science, provide essential inputs for the next generation of ice-sheet models used to predict future sea-level rise.
 
-**Achievement**: First and corresponding author papers in *Science* and *Journal of Computational Physicss*
+**Achievement**: Two papers publised as first and corresponding author in *Science* and *Journal of Computational Physicss*
 
 Relevant publications: [10, 11, 12]
 
