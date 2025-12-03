@@ -28,7 +28,7 @@ To solve this, I developed a novel approach combining vast remote-sensing datase
 
 My research revealed that ice rheology is far more complex than previously thought. I found a distinct contrast between compression zones near the grounding line, which follow standard power laws, and extension zones, where the ice exhibits strong anisotropic properties. By accounting for this anisotropy, I constructed high-precision viscosity maps that capture suture zones—critical structures that inhibit rift propagation but are often missing from current models. These findings, published in Science, provide essential inputs for the next generation of ice-sheet models used to predict future sea-level rise.
 
-**Achievement**: Two papers publised as first and corresponding author in *Science* and *Journal of Computational Physicss*
+**Achievement**: Two papers publised as first and corresponding author in *Science* and *Journal of Open Source Software*
 
 Relevant publications: [10, 11, 12]
 
@@ -41,6 +41,8 @@ Whether fluids can develop singularities—points where velocity or gradients be
 To tackle this, I developed a pioneering computational framework that merges deep learning with high-precision numerical optimization. Unlike traditional methods, our approach uses a multi-stage training scheme combined with a Gauss-Newton optimizer to navigate the complex landscape of nonlinear PDEs.
 
 This framework led to the first systematic discovery of new families of unstable singularities in various fluid equations. Crucially, our method achieves unprecedented accuracy—on the order of O(10e−13)—limited only by hardware round-off errors. This extreme precision is a game-changer: it meets the stringent requirements needed to construct rigorous computer-assisted proofs, offering a new pathway to finally resolving these century-old mathematical mysteries
+
+**Achievement**: Two first-author papers publised in *Physical Review Letters* and *Journal of Computational Physics*. Another two first-author papers are under review and available on Arxiv
 
 Relevant publications: [8, 9, 13, 14]
 
