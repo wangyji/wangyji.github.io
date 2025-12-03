@@ -32,11 +32,11 @@ Relevant publications: [8, 9]
 
 ## Discovery of unstable singularities with machine precision
 
-Whether fluids can develop singularities—points where velocity or gradients become infinite—remains one of the most significant unanswered questions in mathematics. While stable singularities have been identified numerically, the "Holy Grail" of the field (and the focus of the Millennium Prize Navier-Stokes problem) lies in finding unstable singularities. These solutions are exceptionally elusive because even microscopic perturbations can divert the system from its blow-up trajectory.
+Whether fluids can develop singularities—points where velocity or gradients become infinite—remains one of the most significant unanswered questions in mathematics. While stable singularities have been identified numerically, the real challenge of the field (and the focus of the Millennium Prize Navier-Stokes problem) lies in finding unstable singularities. These solutions are exceptionally elusive because even microscopic perturbations can divert the system from its blow-up trajectory.
 
 To tackle this, I developed a pioneering computational framework that merges deep learning with high-precision numerical optimization. Unlike traditional methods, our approach uses a multi-stage training scheme combined with a Gauss-Newton optimizer to navigate the complex landscape of nonlinear PDEs.
 
-This framework led to the first systematic discovery of new families of unstable singularities in various fluid equations. Crucially, our method achieves unprecedented accuracy—on the order of $O(10^{−13})$—limited only by hardware round-off errors. This extreme precision is a game-changer: it meets the stringent requirements needed to construct rigorous computer-assisted proofs, offering a new pathway to finally resolving these century-old mathematical mysteries
+This framework led to the first systematic discovery of new families of unstable singularities in various fluid equations. Crucially, our method achieves unprecedented accuracy—on the order of O(10e−13)—limited only by hardware round-off errors. This extreme precision is a game-changer: it meets the stringent requirements needed to construct rigorous computer-assisted proofs, offering a new pathway to finally resolving these century-old mathematical mysteries
 
 Relevant publications: [9, 10, 11, 12, 13]
 
