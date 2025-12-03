@@ -13,7 +13,9 @@ To overcome these challenges, I integrated advanced computer vision techniques t
 
 Through this work, I discovered two universal physical laws governing fragmentation and established a unified theoretical framework that links these sub-dynamics to predict final droplet distributions. These models, which show excellent agreement with experiments, pave the way for a fundamental understanding of fragmentation in both environmental health and industrial applications.
 
-Relevant publications: [1, 2, 3, 4, 5, 6, 7]
+**Achievement**: 6 first-author papers in *Journal of fluid mechanics* and 1 first-author paper in *Physical Review Letters*
+
+Relevant publications: [[1](https://wangyji.github.io/publication/2017-03-01-Sheet-thickness-and-velocity-profiles), 2, 3, 4, 5, 6, 7]
 
 
 
