@@ -32,7 +32,7 @@ Relevant publications: [8, 9]
 
 ## Discovery of unstable singularities with machine precision
 
-Whether fluids can develop singularities—points where velocity or gradients become infinite—remains one of the most significant unanswered questions in mathematics. While stable singularities have been identified numerically, the real challenge of the field (and the focus of the Millennium Prize Navier-Stokes problem) lies in finding unstable singularities. These solutions are exceptionally elusive because even microscopic perturbations can divert the system from its blow-up trajectory.
+Whether fluids can develop singularities—points where velocity or gradients become infinite—remains one of the most significant unanswered questions in mathematics. While stable singularities have been identified numerically, the real challenge of the field (such as the Millennium Prize Navier-Stokes problem) lies in finding unstable singularities. These solutions are exceptionally elusive because even microscopic perturbations can divert the system from its blow-up trajectory.
 
 To tackle this, I developed a pioneering computational framework that merges deep learning with high-precision numerical optimization. Unlike traditional methods, our approach uses a multi-stage training scheme combined with a Gauss-Newton optimizer to navigate the complex landscape of nonlinear PDEs.
 
