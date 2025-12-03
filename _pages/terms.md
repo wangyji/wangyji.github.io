@@ -27,7 +27,7 @@ To solve this, I developed a novel approach combining vast remote-sensing datase
 
 My research revealed that ice rheology is far more complex than previously thought. I found a distinct contrast between compression zones near the grounding line, which follow standard power laws, and extension zones, where the ice exhibits strong anisotropic properties. By accounting for this anisotropy, I constructed high-precision viscosity maps that capture suture zones—critical structures that inhibit rift propagation but are often missing from current models. These findings, published in Science, provide essential inputs for the next generation of ice-sheet models used to predict future sea-level rise.
 
-Relevant publications: [8, 9]
+Relevant publications: [10, 11, 12]
 
 
 ## Discovery of unstable singularities with machine precision
@@ -38,5 +38,5 @@ To tackle this, I developed a pioneering computational framework that merges dee
 
 This framework led to the first systematic discovery of new families of unstable singularities in various fluid equations. Crucially, our method achieves unprecedented accuracy—on the order of O(10e−13)—limited only by hardware round-off errors. This extreme precision is a game-changer: it meets the stringent requirements needed to construct rigorous computer-assisted proofs, offering a new pathway to finally resolving these century-old mathematical mysteries
 
-Relevant publications: [9, 10, 11, 12, 13]
+Relevant publications: [8, 9, 13, 14]
 
