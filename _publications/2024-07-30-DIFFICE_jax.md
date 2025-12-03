@@ -4,7 +4,7 @@ collection: publications
 category: papers
 permalink: /publication/2024-07-30-DIFFICE_jax
 excerpt: 'Developing a differentiable neural-network solver for data assimilation of ICE shelves written in JAX.'
-date: 2024-07-30
+date: 2025-05-01
 venue: 'Journal of Open Source Software'
 paperurl: 'https://doi.org/10.21105/joss.07254'
 citation: '<b>Y. Wang</b> and C.-Y. Lai. (2025). &quot;Differentiable neural-network solver for data assimilation of ice shelves in JAX.&quot; <i>Journal of Open Source Software</i>, <b>10</b>, 7254.'
