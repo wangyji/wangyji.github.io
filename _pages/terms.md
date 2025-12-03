@@ -17,7 +17,7 @@ Relevant publications: [1, 2, 3, 4, 5, 6, 7]
 
 
 
-## Uncovering the Hidden Mechanics of Antarctic Ice Shelves
+## Uncovering the hidden mechanics of Antarctic ice shelves
 
 Antarctic ice shelves play a critical role in slowing down the flow of ice into the ocean, acting as a buffer against global sea-level rise. However, predicting their stability is difficult because their fundamental mechanical properties—specifically their flow law and viscosity structure—cannot be directly measured on a continental scale.
 
